@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/erodgeStudent/MoviesDatabase/issues"
   },
-  "homepage": "https://github.com/erodgeStudent/MoviesDatabase#readme"
+  "homepage": "https://github.com/erodgeStudent/MoviesDatabase#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
